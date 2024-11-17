@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "670089654369",
+    "project_id": "rebuildit-3b1c2",
+    "storage_bucket": "rebuildit-3b1c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670089654369:android:d68e5618def4679ddd3a20",
+        "android_client_info": {
+          "package_name": "com.example.rebuilt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670089654369-mqojd9iurqs4ffh9mimhj68he283k8cn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rebuilt",
+            "certificate_hash": "27ad395468b5de38aef55cd587bb1d10271d1f51"
+          }
+        },
+        {
+          "client_id": "670089654369-6hmfif8gshabff6vave0q12nd7a0inuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApJ74hzqVjmTYvnbgRxkI8XpLIfZ33WyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670089654369-6hmfif8gshabff6vave0q12nd7a0inuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
